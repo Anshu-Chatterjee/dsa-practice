@@ -6,3 +6,4 @@
 | 217 | Contains Duplicate               | Hash Set              | O(n)       | O(n)  |
 | 217 | Contains Duplicate (Sorting)     | Sorting               | O(n log n) | O(1)  |\
 242     Valid Anagram                      Sorting                 O(n log n)   O(n)
+128     Longest Consecutive Sequence       Sorting/set            O(nlogn)      O(n)
