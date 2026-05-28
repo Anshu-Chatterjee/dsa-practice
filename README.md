@@ -4,6 +4,7 @@
 |-----|----------------------------------|-----------------------|------------|-------|
 | 121 | Best Time to Buy and Sell Stock  | Greedy / Single Pass  | O(n)       | O(1)  |
 | 217 | Contains Duplicate               | Hash Set              | O(n)       | O(n)  |
-| 217 | Contains Duplicate (Sorting)     | Sorting               | O(n log n) | O(1)  |\
+| 217 | Contains Duplicate (Sorting)     | Sorting               | O(n log n) | O(1)  |
 242     Valid Anagram                      Sorting                 O(n log n)   O(n)
 128     Longest Consecutive Sequence       Sorting/set            O(nlogn)      O(n)
+347      Top K Frequent Elements            Hash Map / Sorting     O(n² + m log m) O(m)
